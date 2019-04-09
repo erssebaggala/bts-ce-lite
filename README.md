@@ -1,2 +1,2 @@
 # bts-ce-lite
-Desktop Telecommunication management management application
+Desktop Telecommunication network management application
